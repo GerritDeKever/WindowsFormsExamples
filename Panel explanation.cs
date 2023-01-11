@@ -4,7 +4,6 @@ using ProjectName.View;
 
 //  Author:       
 //  Date:         
-//  Assignment:   
 //  Description:  
 
 namespace ProjectName.View
